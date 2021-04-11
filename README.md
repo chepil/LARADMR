@@ -1,4 +1,4 @@
 # LARADMR
 Project for share Local DMR aprs network
 
-[Документация](/chepil/LARADMR/wiki/Home)
+[Документация](https://github.com/chepil/LARADMR/wiki/home)
